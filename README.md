@@ -9,12 +9,13 @@
 
 <br />
 
-I'm Tommy Forlini, a Polyglot Engineer and Technology Enthusiast based out of Montreal, Canada.
+I'm Tommy Forlini [ckad](https://www.youracclaim.com/badges/25d4460b-aaf5-4cb8-af9a-129b180fcea5/linked_in), a Polyglot Engineer and Technology Enthusiast based out of Montreal, Canada 🇨🇦
 
 **Some Personal Details:**
 
 - 💬 Ask me about <img src="https://devicons.github.io/devicon/devicon.git/icons/go/go-original.svg" alt="go" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
 - 🔭 I’m currently working on a little bit of everything but my interests are mainly towards Kubernetes
+- 🤝 I’m willing to collaborate on anything, just reach out to me directly!
 - ⚡ Fun fact: I love tagging posts with this emoji 🤷‍♂️
 
 <!--
@@ -23,7 +24,6 @@ I'm Tommy Forlini, a Polyglot Engineer and Technology Enthusiast based out of Mo
 Here are some ideas to get you started:
 
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
