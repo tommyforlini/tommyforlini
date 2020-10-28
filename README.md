@@ -9,7 +9,7 @@
 
 <br />
 
-I'm Tommy Forlini [ckad](https://www.youracclaim.com/badges/25d4460b-aaf5-4cb8-af9a-129b180fcea5/linked_in), a Polyglot Engineer and Technology Enthusiast based out of Montreal, Canada 🇨🇦
+I'm Tommy Forlini, a [ckad](https://www.youracclaim.com/badges/25d4460b-aaf5-4cb8-af9a-129b180fcea5/linked_in) certified Polyglot Engineer and Technology Enthusiast based out of Montreal, Canada 🇨🇦
 
 **Some Personal Details:**
 
