@@ -1,10 +1,10 @@
 ### 👋 Hello There!
 
 <a href="https://twitter.com/tommy_forlini">
-  <img align="left" alt="Tommy Forlini | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Tommy Forlini | Twitter" width="22px" src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" />
 </a>
 <a href="https://www.linkedin.com/in/tommy-forlini-22225031/">
-  <img align="left" alt="Tommy's LinkedIn Profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Tommy's LinkedIn Profile" width="22px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
 </a>
 
 <br />
@@ -13,8 +13,8 @@ I'm Tommy Forlini, a [ckad](https://www.youracclaim.com/badges/25d4460b-aaf5-4cb
 
 **Some Personal Details:**
 
-- 💬 Ask me about <img src="https://www.vectorlogo.zone/logos/golang/golang-horizontal.svg" alt="go" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" alt="nodejs" width="40" height="40"/> <img 
-src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="java" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="react" width="40" height="40"/>
+- 💬 Ask me about <img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" alt="go" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40"/> <img 
+src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/>
 - 🔭 I’m currently working on a little bit of everything but my interests are mainly towards Kubernetes
 - 🤝 I’m willing to collaborate on anything, just reach out to me directly!
 - ⚡ Fun fact: I love tagging posts with this emoji 🤷‍♂️
