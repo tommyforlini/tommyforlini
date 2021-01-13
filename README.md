@@ -7,7 +7,7 @@
   <img align="left" alt="Tommy's LinkedIn Profile" width="22px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
 </a>
 <a>
-<img src="https://visitor-badge.glitch.me/badge?page_id=page.id" alt="visitor badge"/>
+<img src="https://visitor-badge.glitch.me/badge?page_id=github.com/tommyforlini" alt="visitor badge"/>
 
 <br />
 
