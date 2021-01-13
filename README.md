@@ -6,6 +6,7 @@
 <a href="https://www.linkedin.com/in/tommy-forlini-22225031/">
   <img align="left" alt="Tommy's LinkedIn Profile" width="22px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
 </a>
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
 <br />
 
