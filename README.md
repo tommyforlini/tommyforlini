@@ -7,8 +7,7 @@
   <img align="left" alt="Tommy's LinkedIn Profile" width="22px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
 </a>
 <a>
-<img src="https://visitor-badge.glitch.me/badge?page_id=github.com/tommyforlini" alt="visitor badge"/>
-
+<!-- <img src="https://visitor-badge.glitch.me/badge?page_id=github.com/tommyforlini" alt="visitor badge"/> -->
 <br />
 
 I'm Tommy Forlini, a [ckad](https://www.youracclaim.com/badges/25d4460b-aaf5-4cb8-af9a-129b180fcea5/linked_in) certified Polyglot Engineer and Technology Enthusiast based out of Montreal, Canada 🇨🇦
